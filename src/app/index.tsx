@@ -7,6 +7,8 @@ export default function Index() {
             <Text> Eu sou Millior !!!</Text>
             <Text> Gerleane</Text>
             <Text> 28 anos</Text>
+            <Text>A vida é um processo!</Text>
+            <Text> Estudante de Informática</Text>
         </View>
     );
 
