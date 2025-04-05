@@ -9,6 +9,8 @@ export default function Index() {
             <Text> 28 anos</Text>
             <Text>A vida é um processo!</Text>
             <Text> Estudante de Informática</Text>
+            <Text>Futuro prospero!!</Text>
+            <Text> espero anciosa pela apresentação do PCCT!!</Text>
         </View>
     );
 
