@@ -15,18 +15,24 @@ export default function Index() {
             <Text style={styles.title6}>Futuro prospero!!</Text>
             <Text style={styles.title7}> espero anciosa pela apresentação do PCCT!!</Text>
         </View>
-
         
     );
-
 }
     
 const styles = StyleSheet.create({
+    container: {
+        flex: 1, // considera toda a area util da tela para os componentes
+        justifyContent: "center",// justifica todos os elementos no centro da tela
+        alignItems: "center",// alinha todos os elemntos no centro da tela
+        flexDirection: "row",//organiza todos os elemntos dentro do flex em linha (esquerda)
+
+    },
+    
     title: {
         color: "red",
         fontSize: 22,
     },
-    
+
     title2:{
         color:"blue",
         fontSize:22,
